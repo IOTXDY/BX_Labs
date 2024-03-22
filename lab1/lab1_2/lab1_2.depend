@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1710930488 source:f:\bx\lab1_2\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<random>
+
+1711024670 source:e:\bx\lab1_2\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<random>
+
