@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1716288304 source:f:\bx\grobner_po\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<map>
+	<windows.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<pthread.h>
+	<omp.h>
+
+1716368086 source:e:\bx\grobner_po\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<map>
+	<windows.h>
+	<tmmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<pthread.h>
+	<omp.h>
+
