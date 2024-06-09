@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\MPI_grobner\MPI_guass\Source.cpp(96): warning C4715: 'readBasis': not all control paths return a value
+  MPI_guass.vcxproj -> F:\MPI_grobner\x64\Debug\MPI_guass.exe

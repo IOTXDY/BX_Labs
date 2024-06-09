@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\MPI_guass\MPI_guass\Source.cpp(40,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\MPI_guass\MPI_guass\Source.cpp(48,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\MPI_guass\MPI_guass\Source.cpp(174,16): warning C4101: 'status': unreferenced local variable
+F:\MPI_guass\MPI_guass\Source.cpp(487,16): warning C4101: 'status': unreferenced local variable
+F:\MPI_guass\MPI_guass\Source.cpp(574,16): warning C4101: 'status': unreferenced local variable
+F:\MPI_guass\MPI_guass\Source.cpp(675,16): warning C4101: 'status': unreferenced local variable
+  MPI_guass.vcxproj -> F:\MPI_guass\x64\Debug\MPI_guass.exe
